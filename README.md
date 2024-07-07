@@ -3,7 +3,7 @@
 <img src="https://github.com/Dream-Catch/Balance-Catch-iOS/assets/68800789/60782280-8ca9-405e-a6c0-d40916945654" width=16%> <img src="https://github.com/Dream-Catch/Balance-Catch-iOS/assets/68800789/3ab5aef5-3e93-4367-9d09-47073ecbd5ab" width=16%> <img src="https://github.com/Dream-Catch/Balance-Catch-iOS/assets/68800789/31108ccc-ac1c-421c-809b-f859f13fa932" width=16%> <img src="https://github.com/Dream-Catch/Balance-Catch-iOS/assets/68800789/2ae23ba5-3a7c-4726-a23e-cd33a96844f1" width=16%> <img src="https://github.com/Dream-Catch/Balance-Catch-iOS/assets/68800789/2a62e317-478d-49a1-b973-c96226c1f73b" width=16%> <img src="https://github.com/Dream-Catch/Balance-Catch-iOS/assets/68800789/9be61705-4785-4388-b847-772058cbe3d3" width=16%>
 
 
-## 🧩 Overview
+
 
 최근 밸런스 게임이 유행하고 있고, **친구들과 함께 선정한 주제에 대해 서로 토론하는 서비스**가 있으면 좋겠다고 생각했습니다.
 
